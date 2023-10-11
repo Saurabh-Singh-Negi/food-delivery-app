@@ -83,3 +83,7 @@
   height: 300px;
   margin-top: 1rem;
 }
+
+Link {
+  text-decoration: none;
+}
